@@ -1,0 +1,1 @@
+NewsDownloader is a multi-threaded batch downloader of news messages and binary attachments from them.
